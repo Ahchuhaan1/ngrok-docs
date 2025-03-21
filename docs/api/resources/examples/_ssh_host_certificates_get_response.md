@@ -4,17 +4,17 @@
 
 ```json
 {
-	"certificate": "ecdsa-sha2-nistp256-cert-v01@openssh.com AAAAKGVjZHNhLXNoYTItbmlzdHAyNTYtY2VydC12MDFAb3BlbnNzaC5jb20AAAAgsmbtr5fuwcYyBFxP/LImzO+TQkpOTaHV/Yv++3lPTKUAAAAIbmlzdHAyNTYAAABBBI3oSgxrOEJ+tIJ/n6VYtxQIFvynqlOHpfOAJ4x4OfmMYDkbf8dr6RAuUSf+ZC2HMCujta7EjZ9t+6v08Ue+CgkAAAAAAAAAAAAAAAIAAAAhc2hjcnRfMnVWYXZyb1VGWTh6a1RrUUlFQXA2SUduYzFNAAAAJAAAABNpbmNvbnNocmV2ZWFibGUuY29tAAAACTEwLjIuNDIuOQAAAABn2fGsAAAAAGhQmKwAAAAAAAAAAAAAAAAAAAAzAAAAC3NzaC1lZDI1NTE5AAAAIIgCBB0uRAJ7cN1fJf8Y6+jlL6PT9RZHsCqCErAbM0H6AAAAUwAAAAtzc2gtZWQyNTUxOQAAAECoYD47ab2PKzkkIrSWf6fy5q1Sc6pkUFsNUaoDwZIdvwN1f/Cajt+DhGLqL81BC8oAmFici9BJffIEB1Aw/Z8K shcrt_2uVavroUFY8zkTkQIEAp6IGnc1M",
-	"created_at": "2025-03-18T22:20:28Z",
+	"certificate": "ecdsa-sha2-nistp256-cert-v01@openssh.com AAAAKGVjZHNhLXNoYTItbmlzdHAyNTYtY2VydC12MDFAb3BlbnNzaC5jb20AAAAgcfK5jvRBAP5oH1CdhmV4PxMcI5bJ//2E2YIDKfVNYssAAAAIbmlzdHAyNTYAAABBBI3oSgxrOEJ+tIJ/n6VYtxQIFvynqlOHpfOAJ4x4OfmMYDkbf8dr6RAuUSf+ZC2HMCujta7EjZ9t+6v08Ue+CgkAAAAAAAAAAAAAAAIAAAAhc2hjcnRfMnVjZU1vOU1qRWpaek5Qd05qcWtFUWVxajJIAAAAJAAAABNpbmNvbnNocmV2ZWFibGUuY29tAAAACTEwLjIuNDIuOQAAAABn3Ty0AAAAAGhT47QAAAAAAAAAAAAAAAAAAAAzAAAAC3NzaC1lZDI1NTE5AAAAICRpKiDCqy+lSzlfRU7D6WgXtwy/uqD875G6CXkB1zs5AAAAUwAAAAtzc2gtZWQyNTUxOQAAAEAjkN5b7SvVocsgnM+LIeA8UBKhnH9WtXfzwXQNLMWs9sq/1VROB4+c1bV5FOBEf9qtstpGFnNF+d8stlt0HXgI shcrt_2uceMo9MjEjZzNPwNjqkEQeqj2H",
+	"created_at": "2025-03-21T10:17:24Z",
 	"description": "personal server",
-	"id": "shcrt_2uVavroUFY8zkTkQIEAp6IGnc1M",
+	"id": "shcrt_2uceMo9MjEjZzNPwNjqkEQeqj2H",
 	"key_type": "ecdsa",
 	"metadata": "{\"region\": \"us-west-2\"}",
 	"principals": ["inconshreveable.com", "10.2.42.9"],
 	"public_key": "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBI3oSgxrOEJ+tIJ/n6VYtxQIFvynqlOHpfOAJ4x4OfmMYDkbf8dr6RAuUSf+ZC2HMCujta7EjZ9t+6v08Ue+Cgk= inconshreveable.com",
-	"ssh_certificate_authority_id": "sshca_2uVavonEmjhU5xJK0HCLJXDi4F1",
-	"uri": "https://api.ngrok.com/ssh_host_certificates/shcrt_2uVavroUFY8zkTkQIEAp6IGnc1M",
-	"valid_after": "2025-03-18T22:20:28Z",
-	"valid_until": "2025-06-16T22:20:28Z"
+	"ssh_certificate_authority_id": "sshca_2uceMv79BfHtXcqJwog8xf0yMak",
+	"uri": "https://api.ngrok.com/ssh_host_certificates/shcrt_2uceMo9MjEjZzNPwNjqkEQeqj2H",
+	"valid_after": "2025-03-21T10:17:24Z",
+	"valid_until": "2025-06-19T10:17:24Z"
 }
 ```

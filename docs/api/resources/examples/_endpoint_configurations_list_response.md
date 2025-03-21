@@ -19,9 +19,9 @@
 			"compression": {
 				"enabled": true
 			},
-			"created_at": "2025-03-18T22:20:05Z",
+			"created_at": "2025-03-21T10:17:02Z",
 			"description": "web servers",
-			"id": "ec_2uVaszxYkTpR1j8TeAIMTjxsxry",
+			"id": "ec_2uceK7psoTnb2IzIVOZA3H7DTLY",
 			"ip_policy": null,
 			"mutual_tls": null,
 			"oauth": null,
@@ -38,7 +38,7 @@
 			"saml": null,
 			"tls_termination": null,
 			"type": "https",
-			"uri": "https://api.ngrok.com/endpoint_configurations/ec_2uVaszxYkTpR1j8TeAIMTjxsxry",
+			"uri": "https://api.ngrok.com/endpoint_configurations/ec_2uceK7psoTnb2IzIVOZA3H7DTLY",
 			"webhook_validation": null
 		},
 		{
@@ -46,9 +46,9 @@
 			"basic_auth": null,
 			"circuit_breaker": null,
 			"compression": null,
-			"created_at": "2025-03-18T22:20:05Z",
+			"created_at": "2025-03-21T10:17:02Z",
 			"description": "app servers",
-			"id": "ec_2uVastpFffdxFRem1wkgBGAx3Ud",
+			"id": "ec_2uceK7PG4cpb8ZiT97gbINbOb91",
 			"ip_policy": null,
 			"mutual_tls": null,
 			"oauth": null,
@@ -64,7 +64,7 @@
 			"saml": null,
 			"tls_termination": null,
 			"type": "https",
-			"uri": "https://api.ngrok.com/endpoint_configurations/ec_2uVastpFffdxFRem1wkgBGAx3Ud",
+			"uri": "https://api.ngrok.com/endpoint_configurations/ec_2uceK7PG4cpb8ZiT97gbINbOb91",
 			"webhook_validation": null
 		}
 	],
